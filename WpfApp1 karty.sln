@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1 karty", "WpfApp1 karty\WpfApp1 karty.csproj", "{4853D154-A7AA-43AB-805B-B5FCE1EF999D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4853D154-A7AA-43AB-805B-B5FCE1EF999D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4853D154-A7AA-43AB-805B-B5FCE1EF999D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4853D154-A7AA-43AB-805B-B5FCE1EF999D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4853D154-A7AA-43AB-805B-B5FCE1EF999D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C76530E-A0D3-4388-9DF8-46D9DFB96407}
+	EndGlobalSection
+EndGlobal
